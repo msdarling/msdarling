@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @msdarling
+- 👀 I’m interested in snakes
+- 🌱 I’m currently learning HTML, C, JAVA,
+- 💞️ I’m looking to collaborate on anything!! Looking to build a portfolio and get a foot in the dev door
+- 📫 marissaskyedarling@gmail.com
